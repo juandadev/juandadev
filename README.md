@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer from México 🇲🇽</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandamartn" alt="juandamartn" /> </p>
 
-<img src="https://imgur.com/a/3qf8sT1.png">
+<img src="https://i.imgur.com/gpyUlb1.png">
 
 - 🔭 I’m currently working on **Enso-Maltés Blog**
 
