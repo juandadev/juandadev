@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **juan@juandamartinez.com**
 
-<p align="left">
+<p align="center">
   <img src="https://i.imgur.com/GHrTiin.png" alt="css3" width="50"/>
   <img src="https://i.imgur.com/CnnStW6.png" alt="html5" width="50"/>
   <img src="https://i.imgur.com/V7LHGRd.png" alt="javascript" width="50"/>
