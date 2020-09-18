@@ -19,6 +19,8 @@
   <img src="https://i.imgur.com/h0fH2rx.png" alt="react" width="50"/>
   <img src="https://i.imgur.com/YBVopf8.png" alt="laravel" width="50"/>
   <img src="https://i.imgur.com/VEEp80v.png" alt="mysql" width="50"/>
+  <br/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=juandamartn&show_icons=true" alt="juandamartn" />
 </p>
 
