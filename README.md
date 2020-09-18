@@ -2,19 +2,25 @@
 <h3 align="center">A passionate Full-Stack developer from México 🇲🇽</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandamartn" alt="juandamartn" /> </p>
 
-<img align="center" src="https://i.imgur.com/gpyUlb1.png" height="250"/>
+<img align="center" src="https://i.imgur.com/gpyUlb1.png" height="250" style="text-align: center"/>
 
 - 🔭 I’m currently working on **Enso-Maltés Blog**
 
 - 👨‍💻 All of my projects are available at [http://juandamartinez.com/](http://juandamartinez.com/)
 
-- 💬 Ask me about **Vanilla CSS**
+- 💬 Ask me about **CSS**
 
 - 📫 How to reach me **juan@juandamartinez.com**
 
-- ⚡ Fun fact **I drink at least 6 cups of coffee a day**
-
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="50" height="50"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=juandamartn&show_icons=true" alt="juandamartn" /> </p>
+<p align="left">
+  <img src="https://i.imgur.com/GHrTiin.png" alt="css3" width="50"/>
+  <img src="https://i.imgur.com/CnnStW6.png" alt="html5" width="50"/>
+  <img src="https://i.imgur.com/V7LHGRd.png" alt="javascript" width="50"/>
+  <img src="https://i.imgur.com/h0fH2rx.png" alt="react" width="50"/>
+  <img src="https://i.imgur.com/YBVopf8.png" alt="laravel" width="50"/>
+  <img src="https://i.imgur.com/VEEp80v.png" alt="mysql" width="50"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=juandamartn&show_icons=true" alt="juandamartn" />
+</p>
 
 <p align="center">
 <a href="https://dev.to/juandamartn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="juandamartn" height="20" width="20" /></a>
