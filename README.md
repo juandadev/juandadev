@@ -4,7 +4,7 @@
 
 <img align="center" src="https://i.imgur.com/gpyUlb1.png" width="100%"/>
 
-- 🔭 I’m currently working on **Enso-Maltés Blog**
+- 🔭 I’m currently working on **DigitalOcean App Platform Hackathon on DEV!**
 
 - 👨‍💻 All of my projects are available at [http://juandamartinez.com/](http://juandamartinez.com/)
 
