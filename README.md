@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Martinez</h1>
-<h3 align="center">A passionate Full-Stack developer from México 🇲🇽</h3>
+<h3 align="center">A passionate Front-End developer from México 🇲🇽</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandamartn" alt="juandamartn" /> </p>
 
 <img align="center" src="https://i.imgur.com/gpyUlb1.png" width="100%"/>
