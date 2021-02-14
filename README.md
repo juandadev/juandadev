@@ -1,32 +1,36 @@
-<h1 align="center">Hi 👋, I'm Juan Martinez</h1>
+<h1 align="center">Hi 👋, I'm Juan Daniel Martinez <img src='https://imgur.com/Ovu7aBB.png' alt='React JS icon' title='React JS icon' width='40px' /></h1>
 <h3 align="center">A passionate Front-End developer from México 🇲🇽</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandadev" alt="juandadev" /> </p>
 
-<img align="center" src="https://i.imgur.com/gpyUlb1.png" width="100%"/>
+[![Twitter: juanda_dev_](https://img.shields.io/twitter/follow/juanda_dev_?style=social)](https://twitter.com/juanda_dev_)
+[![GitHub Juandadev](https://img.shields.io/github/followers/juandadev?label=follow&style=social)](https://github.com/juandadev)
 
-- 🔭 I’m currently working on **My personal blog site**
+### A little more about me...
 
-- 👨‍💻 All of my projects are available at [http://juanda.dev/](http://juanda.dev/)
+```javascript
+const juandadev = {
+  code: ['Javascript', 'HTML', 'CSS'],
+  tools: ['React', 'Redux', 'Bootstrap'],
+  blogs: {
+    website: 'https://juanda.dev/blog',
+    devto: 'https://dev.to/juanda_dev',
+    medium: 'https://medium.com/@juandadev',
+  },
+  challenge: "I'm currently working on my own personal blog manager",
+};
+```
 
-- 💬 Ask me about **CSS**
+## 🚧 Personal projects in progress
 
-- 📫 How to reach me **contacto@juanda.dev**
+- 🎈 [Parral Entertainment](https://parralentertainment.com)
+- 🦉 Enso Maltés (Blog)
+
+## 📫 Contact Me
+
+- LinkedIn - [Juan Daniel Martínez](https://www.linkedin.com/in/juandadev/)
+- Email - [contacto@juanda.dev](mailto:contacto@juanda.dev)
 
 <p align="center">
-  <img src="https://i.imgur.com/GHrTiin.png" alt="css3" width="50"/>
-  <img src="https://i.imgur.com/CnnStW6.png" alt="html5" width="50"/>
-  <img src="https://i.imgur.com/V7LHGRd.png" alt="javascript" width="50"/>
-  <img src="https://i.imgur.com/h0fH2rx.png" alt="react" width="50"/>
-  <img src="https://i.imgur.com/YBVopf8.png" alt="laravel" width="50"/>
-  <img src="https://i.imgur.com/VEEp80v.png" alt="mysql" width="50"/>
-  <br/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=juandadev&show_icons=true" alt="juandadev" />
 </p>
 
-<p align="center">
-<a href="https://dev.to/juanda_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="juandadev" height="20" width="20" /></a>
-<a href="https://twitter.com/juanda_dev_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juandadev" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/juandadev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juandadev" height="20" width="20" /></a>
-<a href="https://instagram.com/juanda.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="juandadev" height="20" width="20" /></a>
-</p>
