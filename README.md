@@ -9,8 +9,8 @@
 
 ```javascript
 const juandadev = {
-  code: ['Javascript', 'HTML', 'CSS'],
-  tools: ['React', 'Redux', 'Bootstrap'],
+  code: ['Javascript', 'HTML', 'CSS', 'PHP'],
+  tools: ['React', 'Redux', 'Bootstrap', 'Laravel'],
   blogs: {
     website: 'https://juanda.dev/blog',
     devto: 'https://dev.to/juanda_dev',
