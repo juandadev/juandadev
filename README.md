@@ -34,3 +34,6 @@ const juandadev = {
   <img src="https://github-readme-stats.vercel.app/api?username=juandadev&show_icons=true" alt="juandadev" />
 </p>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandadev&layout=compact" alt="juandadev" />
+</p>
