@@ -1,6 +1,6 @@
 <img src="https://imgur.com/rqtnlGM.png" alt="Juan Daniel cover" style="float: left; margin-bottom: 30px; width: 100%"/>
 
-<h1 align="center">Hi 👋, I'm Juan Daniel Martinez <img src='https://imgur.com/Ovu7aBB.png' alt='React JS icon' title='React JS icon' width='40px' /></h1>
+<h1 align="center">Hi 👋, I'm Juan Daniel Martinez</h1>
 <h3 align="center">A passionate Front-End developer from México 🇲🇽</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandadev" alt="juandadev" /> </p>
 
