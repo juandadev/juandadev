@@ -1,3 +1,5 @@
+<img src="https://imgur.com/rqtnlGM.png" alt="Juan Daniel cover" style="float: left; margin-bottom: 30px; width: 100%"/>
+
 <h1 align="center">Hi 👋, I'm Juan Daniel Martinez <img src='https://imgur.com/Ovu7aBB.png' alt='React JS icon' title='React JS icon' width='40px' /></h1>
 <h3 align="center">A passionate Front-End developer from México 🇲🇽</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandadev" alt="juandadev" /> </p>
@@ -10,12 +12,7 @@
 ```javascript
 const juandadev = {
   code: ['Javascript', 'HTML', 'CSS', 'PHP'],
-  tools: ['React', 'Redux', 'Bootstrap', 'Laravel'],
-  blogs: {
-    website: 'https://juanda.dev/blog',
-    devto: 'https://dev.to/juanda_dev',
-    medium: 'https://medium.com/@juandadev',
-  },
+  tools: ['React', 'Redux', 'NextJS', 'SASS', 'Bootstrap', 'Laravel'],
   challenge: "I'm currently working on my own personal blog manager",
 };
 ```
