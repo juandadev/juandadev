@@ -13,14 +13,9 @@
 const juandadev = {
   code: ['Javascript', 'HTML', 'CSS', 'PHP'],
   tools: ['React', 'Redux', 'NextJS', 'SASS', 'Bootstrap', 'Laravel'],
-  challenge: "I'm currently working on my own personal blog manager",
+  challenge: "On my way to have my own TED talk 🥸",
 };
 ```
-
-## 🚧 Personal projects in progress
-
-- 🎈 [Parral Entertainment](https://parralentertainment.com)
-- 🦉 Enso Maltés (Blog)
 
 ## 📫 Contact Me
 
