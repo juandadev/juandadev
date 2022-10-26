@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Juan Daniel Martinez</h1>
+<h1 align="center">Hi 👋, I'm Juanda Martinez</h1>
 <h3 align="center">A passionate Software Engineer 🇲🇽</h3>
-
-## 📫 Contact Me
 
 - LinkedIn - [Juan Daniel Martínez](https://www.linkedin.com/in/juandadev/)
 - Email - [contacto@juanda.dev](mailto:contacto@juanda.dev)
