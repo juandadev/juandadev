@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Juanda Martinez</h1>
-<h3 align="center">A passionate Software Engineer 🇲🇽</h3>
+<h3 align="center">A passionate Web developer 🇲🇽</h3>
 
 <p>I love to make websites, specially UI's with React and Next.js</p>
 <p>As you can see my first love was PHP, and it still in my heart 💙</p>
