@@ -5,4 +5,4 @@
 <p>As you can see my first love was PHP, and it still in my heart 💙</p>
 
 - LinkedIn - [Juan Daniel Martínez](https://www.linkedin.com/in/juandadev/)
-- Email - [contacto@juanda.dev](mailto:contacto@juanda.dev)
+- Email - [juanda.martinezn@gmail.com](mailto:juanda.martinezn@gmail.com)
