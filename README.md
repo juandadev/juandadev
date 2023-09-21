@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 I'm Juanda Martinez</h1>
-<h3 align="center">A passionate Software Engineer 🇲🇽</h3>
+
+### A passionate Software Engineer 🇲🇽
 
 [![Twitter: champiniel](https://img.shields.io/twitter/follow/champiniel?style=social)](https://twitter.com/champiniel)
 [![Linkedin: juandadev](https://img.shields.io/badge/-juandadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juandadev/)](https://www.linkedin.com/in/juandadev/)
