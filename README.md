@@ -13,9 +13,7 @@
 
 ## More about me...
 
-PHP lover from birth 💙 Javascript wizard for living 💛
-
-I've been working with Javascript ecosystem for about 4 years. My abilities relies on React, Typescript & Node, but I also have worked as a freelancer developer, developing complete software apps with PHP, shared hosting, design of prototypes, and design systems with Figma and Adobe XD 😎
+I've been working with the Javascript ecosystem for about 4 years. My abilities rely on React, Typescript & Node, but I also have worked as a freelancer developer, building complete web apps for my clients.
 
 I'm proud to say I've been helping in the [Dev.to](https://dev.to) community as a trusted member and moderator for many topics, focusing on giving more visibility to those people who add valuable resources with their posts. This encouraged me to start blogging and these past weeks, I've enjoyed documenting my learning process.
 
@@ -23,11 +21,11 @@ I'm proud to say I've been helping in the [Dev.to](https://dev.to) community as 
 
 - [Pokemonstats](https://github.com/juandadev/pokemonstats)
   
-As a passionate gamer and developer, sometimes it's better to build our own tools for personal use. I always forgot the pokemon's evolution levels/conditions, and their weaknesses against other types, and after each battle I like to take my time to analyze all of this with this practical tool instead of researching wikis with a large amount of useless information.
+As a passionate gamer and developer, sometimes it's better to build our own tools for personal use. I always forgot the Pokemon's evolution levels/conditions, and their weaknesses against other types, and after each battle, I like to take my time to analyze all of this with this practical tool instead of researching wikis with a large amount of useless information.
 
 - [Ghibli Tracker](https://github.com/thomasnrggo/Ghibli-tracker-client)
 
-Although the services for this app are unavailable due to billing matters (like log in/sign up, and user profile features) this app was originally a tracker for anyone who loves Studio Ghibli movies, where you could rate and leave comments regarding all the films of that studio. I'm still leaving this here because we put a lot of love and effort, and you can still see the homepage and movie details thanks to the power of static generation (With Next.js) even though we don't have access to the API 💪🏻
+Although the services for this app are unavailable due to billing matters (like login/sign-up, and user profile features) this app was originally a tracker for anyone who loves Studio Ghibli movies, where you could rate and leave comments regarding all the films of that studio. I'm still leaving this here because we put a lot of love and effort, and you can still see the homepage and movie details thanks to the power of static generation (With Next.js) even though we have the server and database down it is displaying the last set of data found 💪🏻
 
 ## My powerful tech stack 🥸
 
