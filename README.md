@@ -12,7 +12,6 @@ I'm a frontend developer from Mexico with 5+ years of experience building modern
 - 🧠 Obsessed with **developer experience** and clean component libraries
 - 🧳 Big fan of open source, creative side-projects, and web performance
 - 🎮 Gamer, designer wannabe, sometimes I play guitar too
-- ⏳ Goal: Staff Engineer & financial freedom before 40
 
 ## 🌐 Let's Connect
 
