@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-I'm a frontend developer from Mexico with 5+ years of experience building modern UIs using **React**, **Next.js** and **TypeScript**. I believe the frontend is more than just buttons and forms — it's the layer where humans meet software. And I love making that experience feel amazing.
+I'm a frontend developer from Mexico with 5+ years of experience building modern UIs using **React**, **Next.js** and **TypeScript**. I believe the frontend is more than just buttons and forms, it's the layer where humans meet software. And I love making that experience feel amazing.
 
-- ✨ Currently working full-time as a Software Engineer at an IT consultant with a US client
+- ✨ Currently working full-time as a Software Engineer at an IT consultant with a US based client
 - 🧠 Obsessed with **developer experience** and clean component libraries
 - 🧳 Big fan of open source, creative side-projects, and web performance
 - 🎮 Gamer, designer wannabe, sometimes I play guitar too
@@ -27,7 +27,7 @@ I'm always happy to connect, share knowledge or just talk dev stuff. You can fin
 
 [![pokemonstats.com](https://raw.githubusercontent.com/juandadev/assets-blog/refs/heads/main/projects/pokemon-stats/cover.webp)](https://pokemonstats.com)
 
-> A redesign of a tool I made for myself 4 years ago, now turned into a better experience for casual Pokémon players — strengths, weaknesses, evolutions, and more.
+> A redesign of a tool I made for myself 4 years ago, now turned into a better experience for casual Pokémon players: strengths, weaknesses, evolutions, and more.
 
 - Built with **Next.js**, **React**, **Tailwind CSS** and **PokéAPI**
 - Fully static with an offline-first mindset
