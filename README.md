@@ -22,20 +22,6 @@ I'm always happy to connect, share knowledge or just talk dev stuff. You can fin
 - 📕 [Personal Blog](https://juanda.dev) — raw thoughts, WIPs, lessons learned (in Spanish)
 - 📃 [Blog @ Dev.to](https://dev.to/juandadev) - Same, but in English
 
-
-## 📈 Featured Project: Pokémon Stats
-
-[![pokemonstats.com](https://raw.githubusercontent.com/juandadev/assets-blog/refs/heads/main/projects/pokemon-stats/cover.webp)](https://pokemonstats.com)
-
-> A redesign of a tool I made for myself 4 years ago, now turned into a better experience for casual Pokémon players: strengths, weaknesses, evolutions, and more.
-
-- Built with **Next.js**, **React**, **Tailwind CSS** and **PokéAPI**
-- Fully static with an offline-first mindset
-- Evolving alongside my frontend skills
-
-Check it out here: [pokemonstats.com](https://pokemonstats.com)
-
-
 ## 🌍 Open Source & Side Projects
 
 - ✨ [`pokemonstats`](https://github.com/juandadev/pokemonstats) - public repo for the Pokémon Stats app
