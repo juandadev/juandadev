@@ -1,6 +1,6 @@
 # Hi! I'm Juan 👋🏻
 
-> Frontend Developer | React & TypeScript Lover | Indie Hacker in Progress
+Frontend Developer | [v0](https://v0.app/) ambassador | [Databuddy](https://www.databuddy.cc/) ambassador | React & TypeScript Lover | Indie Hacker in Progress
 
 ![Juan's banner](https://github.com/juandadev/juandadev/assets/38818606/0ffb37ab-36f3-469d-a6da-531c879fc142)
 
