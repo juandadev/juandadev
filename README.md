@@ -22,19 +22,13 @@ I'm always happy to connect, share knowledge or just talk dev stuff. You can fin
 - 📕 [Personal Blog](https://juanda.dev) — raw thoughts, WIPs, lessons learned (in Spanish)
 - 📃 [Blog @ Dev.to](https://dev.to/juandadev) - Same, but in English
 
-## 🌍 Open Source & Side Projects
+## 💡 About v0 by Vercel
 
-- ✨ [`pokemonstats`](https://github.com/juandadev/pokemonstats) - public repo for the Pokémon Stats app
-- ⚖️ Component libraries and tools (soon to be published)
-- 🎓 Learning playgrounds: Next.js 15, App Router, Server Actions, a11y and more
+I’m part of the v0 Ambassador Program, a community of developers exploring how AI can speed up the way we build web apps.  
+I use **v0** in my side projects to prototype ideas, generate React components, and design inspirations.  
 
+If you’re curious and want to try **v0**, you can use my ambassador link below, it supports my work and helps me keep creating stuff like this 🫶  
 
-## 💡 Fun Facts
+👉 [Try v0 Pro with my link](https://v0.dev?via=juan-daniel-martinez)
 
-- I got into web development after failing a uni class. Best failure of my life.
-- Although I studied Computer Systems Engineering with a major in Web development, I still had to enter a bootcamp in 2020 because I wasn't confident enough to land a job by myself.
-- I use [inkdrop](https://inkdrop.app) to write my entire life. Been thinking of building my own notes app, too.
-
-
-## 🙏 Thanks for stopping by!
-If you read this far, you deserve a cookie 🍪. Feel free to drop a star, follow, or just say hi.
+*(Affiliate disclosure: I earn a small commission if you subscribe using this link. No extra cost to you.)*
