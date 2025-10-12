@@ -29,6 +29,6 @@ I use **v0** in my side projects to prototype ideas, generate React components, 
 
 If you’re curious and want to try **v0**, you can use my ambassador link below, it supports my work and helps me keep creating stuff like this 🫶  
 
-👉 [Try v0 Pro with my link](https://v0.dev?via=juan-daniel-martinez)
+👉 [Try v0 with my link](https://v0.dev?via=juan-daniel-martinez)
 
 *(Affiliate disclosure: I earn a small commission if you subscribe using this link. No extra cost to you.)*
