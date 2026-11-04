@@ -1,34 +1,30 @@
-# Hi! I'm Juan 👋🏻
+# Hi, I'm Juan 👋🏻
 
-Frontend Developer | [v0](https://v0.app/) ambassador | [Databuddy](https://www.databuddy.cc/) ambassador | React & TypeScript Lover | Indie Hacker in Progress
+Community builder and software engineer from Guadalajara, Mexico 🇲🇽, and a design engineer in the making.
 
 ![Juan's banner](https://github.com/juandadev/juandadev/assets/38818606/0ffb37ab-36f3-469d-a6da-531c879fc142)
 
-## 🚀 About Me
+## 🌮 Community
 
-I'm a frontend developer from Mexico with 5+ years of experience building modern UIs using **React**, **Next.js** and **TypeScript**. I believe the frontend is more than just buttons and forms, it's the layer where humans meet software. And I love making that experience feel amazing.
+I founded **[AI Vibe GDL](https://aivibegdl.com)**, an in-person community where people in Guadalajara learn and build with AI. We've hosted 6 events since our first v0 Mini Hackathon in February 2026, and the next one is a Cursor Hackathon.
 
-- ✨ Currently working full-time as a Software Engineer at an IT consultant with a US based client
-- 🧠 Obsessed with **developer experience** and clean component libraries
-- 🧳 Big fan of open source, creative side-projects, and web performance
-- 🎮 Gamer, designer wannabe, sometimes I play guitar too
+- ☕ [Raycast](https://raycast.com) ambassador. I host **Raycafé**, casual meetups to explore Raycast.
+- 🛠️ Build ambassador, part of the SpaceXSI Community (formerly the [Cursor](https://cursor.com) ambassador program)
+- ▲ Former [v0](https://v0.app) ambassador
 
-## 🌐 Let's Connect
+## 🚀 What I do
 
-I'm always happy to connect, share knowledge or just talk dev stuff. You can find me here:
+- 💼 Software engineer at GlobalLogic, working with a US-based client. I spent 3 years as the sole frontend engineer and I'm now moving into full-stack.
+- 🎨 Learning design to bring it together with engineering: motion, typography and UI craft.
+- ⚛️ I mostly work with **React**, **Next.js** and **TypeScript**, and I care a lot about developer experience and interfaces that feel good to use.
+- 🧪 Side projects: a personal finance app, a media compressor, and whatever else I can't stop thinking about.
 
-- 🧵 [Twitter / X](https://x.com/juandadotdev) — casual dev thoughts, humor, progress logs
-- 👤 [LinkedIn](https://linkedin.com/in/juandadev) — professional highlights
-- 📕 [Personal Blog](https://juanda.dev) — raw thoughts, WIPs, lessons learned (in Spanish)
-- 📃 [Blog @ Dev.to](https://dev.to/juandadev) - Same, but in English
+## 🌐 Find me
 
-## 💡 About v0 by Vercel
+- 🌍 [juanda.dev](https://juanda.dev): my portfolio, blog and the "side quest" timeline
+- 🧵 [X / Twitter](https://x.com/juandadotdev): daily thoughts and progress logs
+- 👤 [LinkedIn](https://linkedin.com/in/juandadev): community events and work highlights
+- 📸 [Instagram](https://instagram.com/juandadev): event photos and announcements
+- 🤝 [AI Vibe GDL](https://aivibegdl.com): upcoming events and the gallery
 
-I’m part of the v0 Ambassador Program, a community of developers exploring how AI can speed up the way we build web apps.  
-I use **v0** in my side projects to prototype ideas, generate React components, and design inspirations.  
-
-If you’re curious and want to try **v0**, you can use my ambassador link below, it supports my work and helps me keep creating stuff like this 🫶  
-
-👉 [Try v0 with my link](https://v0.dev/pricing?via=juan-daniel-martinez)
-
-*(Affiliate disclosure: I earn a small commission if you subscribe using this link. No extra cost to you.)*
+If you're in Guadalajara and building with AI, come to one of our events 🫡
